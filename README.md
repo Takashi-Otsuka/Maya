@@ -1,5 +1,4 @@
 # Maya
-3D_model and its pictures
 
 gear.mbは歯車のモデル
 
